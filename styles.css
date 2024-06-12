@@ -278,11 +278,7 @@ input{
   .title {
     text-align: left;
   }
-
-  .box{
-    padding-bottom: 0;
-  }
-
+  
   .nav {   
     display: block;
     width: 100%;
