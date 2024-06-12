@@ -1,7 +1,7 @@
 @font-face {
     font-family: FontAwesome;
-    src: url( "./fonts/icomoon.woff2" ) format("woff2"),
-    url( "./fonts/icomoon.woff" ) format("woff");
+    src: url( "fonts/icomoon.woff2" ) format("woff2"),
+    url( "fonts/icomoon.woff" ) format("woff");
         
     font-weight: 400;
     font-display: swap;
