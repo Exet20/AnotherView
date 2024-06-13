@@ -19,8 +19,13 @@ h1, h2, h3, h4, p {
   margin-bottom: 15px;
 }
 
-a{
+a{  
   color: inherit;
+}
+
+.a{
+  padding: 2px;
+  margin-bottom: 5px;
 }
 
 ul{
