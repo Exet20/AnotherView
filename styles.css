@@ -78,7 +78,7 @@ img{
 
 .floatLeft3{
   float: left;
-  width: 30%;
+  width: 33%;
 }
 
 section::after { /*cancel of float after the section*/
